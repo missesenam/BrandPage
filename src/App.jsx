@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/NavBar";
-import Body from "./components/body";
+import Body from "./components/Body";
 
 const App = () => {
   return (
